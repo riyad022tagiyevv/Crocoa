@@ -8,7 +8,7 @@ Official hosted bot: [@CrocodileGameBot](https://t.me/CrocodileGameBot).
 
 ### To Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PatheticProgrammers/CrocodileGame)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riyad022tagiyevv/Crocoa)
 
 ### On your machine
 
